@@ -1,0 +1,32 @@
+[
+    {
+        "name": "chicken alfredo",
+        "category": "chicken",
+        "instructions": "https://www.allrecipes.com/recipe/25303/chicken-fettuccini-alfredo/?internalSource=rotd&referringId=1974&referringContentType=recipe%20hub",
+        "img": "https://images.media-allrecipes.com/userphotos/720x405/5310577.jpg"
+    },
+    {
+        "name": "beef enchiladas",
+        "category": "beef",
+        "instructions": "https://www.allrecipes.com/recipe/24263/ground-beef-enchiladas/?internalSource=hub%20recipe&referringContentType=search%20results",
+        "img": "https://images.media-allrecipes.com/userphotos/720x405/1937864.jpg"
+    },
+    {
+        "name": "shrimp salad",
+        "category": "fish",
+        "instructions": "https://www.allrecipes.com/recipe/12852/doriss-shrimp-salad/?internalSource=staff%20pick&referringId=914&referringContentType=recipe%20hub",
+        "img": "https://images.media-allrecipes.com/userphotos/250x250/1015167.jpg"
+    },
+    {
+        "name": "cheeseburger",
+        "category": "beef",
+        "instructions": "https://www.allrecipes.com/recipe/145758/big-smokey-burgers/?internalSource=streams&referringId=16851&referringContentType=recipe%20hub&clickId=st_trending_b",
+        "img": "https://images.media-allrecipes.com/userphotos/720x405/1120707.jpg"
+    },
+    {
+        "name": "baked potato with bacon",
+        "category": "pork",
+        "instructions": "https://www.allrecipes.com/recipe/20659/twice-baked-potatoes/?internalSource=hub%20recipe&referringContentType=search%20results",
+        "img": "https://images.media-allrecipes.com/userphotos/720x405/1119535.jpg"
+    }
+]
